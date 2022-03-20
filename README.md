@@ -12,7 +12,7 @@ Bands can create their profile giving them them the opportunity to mint NFTs for
 
 Bands can customise their profile page by adding adding photos of the band before setting up their timeline page. This is the USP of FanTribal. Rather than a grid of NFTs we associate NFTs with key dates in the lifetime of the band. So an NFT that represents the genesis of a band is likely to be the most valuable when the band becomes famous. It also provides a much more visually pleasing way for NFT to represent the lifetime of a band.
 
-### What's it build with
+### What's it build with?
 
 The website is built on Next.js and uses Tailwindcss.
 
