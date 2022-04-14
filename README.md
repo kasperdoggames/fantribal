@@ -17,3 +17,7 @@ The website is built on Next.js and uses Tailwindcss.
 The website makes use of Mintbase SDK to provide NFT minting capabilities.
 
 Band profile images are held on Filecoin/IPFS.
+
+### License
+
+https://ipfs.io/ipfs/QmVreNvKsQmQZ83T86cWSjPu2vR3yZHGPm5jnxFuunEB9u
