@@ -1,6 +1,4 @@
-# NEAR Fantribal Hack
-
-A hack for the Encode Club Hackathon on the NEAR blockchain.
+# Fantribal
 
 Fantribal is for music artists, bands and their fans to mint and buy NFTs that celebrate events in the lifetime of a fledgling artists. The sale of collectible NFTs provides valuable funds to support the early life of new artists. When they are famous there will be rewards for venues and fans through royalties from the sale of these ultimately valuable.
 
